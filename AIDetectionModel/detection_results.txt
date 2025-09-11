@@ -1,0 +1,26 @@
+Elevator Staircase View: Person 0 (offline or no frame)
+Indoor Main Staircase Main Building Entrance - Boys Section: Person 0 (offline or no frame)
+Outside Boys Reception: Person 0 (offline or no frame)
+KG Playground: Person 0 (offline or no frame)
+KG Hallway: Person 0 (offline or no frame)
+KG Hallway View 2: Person 0
+Boys Playground View 3: Person 0
+Outside Canteen Gate: Person 0 (offline or no frame)
+Basketball Court Yard: Person 0 (offline or no frame)
+Boys Section Hall Way View: Person 0
+Outside Restroom Junior View: Person 0 (offline or no frame)
+KG Food Court: Person 0
+Midway Main Staircase View 2: Person 0
+Volleyball View: Person 0
+KG Playground View 2: Person 0 (offline or no frame)
+Grade 12A: Person 0
+KG Outside Restroom View_NVR 3: Person 0 (offline or no frame)
+Canteen Indoor View - Boys Section: Person 1
+Computer Lab Staircase View - Boys Section: Person 0
+Canteen Indoor View 2 - Boys Section: Person 0
+Bus Exit Gate View 1: Person 0
+Boys Playground View 4: Person 0
+Restroom Outside Senior Section: Person 1
+Canteen Outdoor View: Person 0 (offline or no frame)
+KG Playground View 3: Person 0 (offline or no frame)
+Bus Exit View 2: Person 0 (offline or no frame)

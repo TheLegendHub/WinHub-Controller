@@ -1,0 +1,18 @@
+HTTP and WebSocket server running on http://localhost:7000
+node:internal/process/promises:391
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error: Client network socket disconnected before secure TLS connection was established
+    at TLSSocket.onConnectEnd (node:_tls_wrap:1730:19)
+    at TLSSocket.emit (node:events:531:35)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'ECONNRESET',
+  path: undefined,
+  host: 'discord.com',
+  port: 443,
+  localAddress: null
+}
+
+Node.js v20.18.0

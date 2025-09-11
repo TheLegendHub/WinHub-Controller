@@ -1,0 +1,1836 @@
+Checkup started at 2024-12-10 13:31:46.395090
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-10 14:25:56.985766
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-10 14:27:44.375405
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-10 14:31:11.071540
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-10 14:40:00.168966
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-10 14:43:37.094403
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-10 14:47:59.289546
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-10 14:53:13.382257
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-10 14:58:27.477268
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-10 15:13:15.271481
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-10 15:14:57.249744
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-10 15:14:58.482118
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-10 15:15:14.913730
+Checkup started at 2024-12-10 15:15:54.261108
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-10 15:18:46.794242
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-10 15:24:00.880582
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-10 15:26:04.526580
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-16 14:10:59.513935
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-17 11:10:57.914432
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-17 11:12:00.134199
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-17 11:16:11.995510
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-17 11:17:14.222699
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-17 11:20:22.588824
+Checkup started at 2024-12-17 11:20:24.711579
+Checkup started at 2024-12-17 11:22:31.884085
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-17 11:23:11.747594
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-17 11:24:40.803888
+Checkup started at 2024-12-17 11:24:34.572595
+Checkup started at 2024-12-17 11:24:52.121173
+Checkup started at 2024-12-17 11:24:50.838706
+Checkup started at 2024-12-17 11:24:57.732520
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-17 11:25:01.208895
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-17 11:26:26.514793
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-17 11:28:53.101117
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-17 11:28:54.928208
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-17 11:31:35.178950
+Checkup started at 2024-12-17 11:36:46.433714
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-17 11:45:16.970858
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-17 11:50:31.052040
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-17 11:51:37.679586
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-17 11:52:04.392941
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Waiting 5 minutes for the next check...
+
+Checkup started at 2024-12-17 11:56:04.578245
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Checkup started at 2024-12-17 12:10:33.083107
+Checkup started at 2024-12-17 12:10:44.197099
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Checkup started at 2024-12-17 12:13:16.280278
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Checkup started at 2024-12-17 12:26:10.326515
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Checkup started at 2024-12-17 12:38:29.829010
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Checkup started at 2024-12-17 12:46:18.364506
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Checkup started at 2024-12-17 12:58:13.613069
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Checkup started at 2024-12-17 13:24:12.200745
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Checkup started at 2024-12-17 14:55:14.251668
+Checkup started at 2024-12-17 15:03:32.191158
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Checkup started at 2024-12-17 15:11:47.161097
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Checkup started at 2024-12-17 15:11:53.871808
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Checkup started at 2024-12-17 15:14:44.345787
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Checkup started at 2024-12-18 08:03:30.047241
+Online PCs:
+  - Bashar PC (169.254.1.30)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Checkup started at 2025-01-08 07:47:48.061463
+No PCs are online.
+
+Offline PCs:
+  - Bashar PC (169.254.1.30)
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Checkup started at 2025-01-08 07:57:46.220790
+Online PCs:
+  - Bashar PC (10.0.249.236)
+
+Offline PCs:
+  - Grade 6A (169.254.22.189)
+  - Grade 6B (169.254.26.174)
+  - Grade 7A (169.254.29.5)
+  - Grade 7B (169.254.23.102)
+  - Grade 8A (169.254.23.150)
+  - Grade 8B (169.254.23.159)
+  - Grade 9A (169.254.22.39)
+  - Grade 9B (169.254.16.100)
+  - Grade 10A (169.254.22.59)
+  - Grade 10B (169.254.2.3)
+  - Grade 11A (169.254.5.38)
+  - Grade 11B (169.254.22.84)
+  - Grade 12A (169.254.27.32)
+  - Grade 12B (169.254.0.42)
+
+Checkup started at 2025-01-08 09:25:08.304606
+Online PCs:
+  - Bashar PC (10.0.249.236)
+  - Grade 6A (10.0.1.14)
+  - Grade 7A (10.0.1.98)
+  - Grade 9A (10.0.0.244)
+  - Grade 9B (10.0.0.255)
+  - Grade 10A (10.0.0.252)
+  - Grade 10B (10.0.1.11)
+  - Grade 11A (10.0.1.2)
+  - Grade 11B (10.0.1.4)
+  - Grade 12A (10.0.1.0)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8A (10.0.1.17)
+  - Grade 8B (10.0.1.94)
+  - Grade 8D (10.0.0.236)
+  - Grade 9D (10.0.0.250)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12B (169.254.0.42)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-01-08 09:56:35.332801
+Online PCs:
+  - Bashar PC (10.0.249.236)
+  - Grade 6A (10.0.1.14)
+  - Grade 8B (10.0.1.94)
+  - Grade 9A (10.0.0.244)
+  - Grade 9B (10.0.0.255)
+  - Grade 10A (10.0.0.252)
+  - Grade 10B (10.0.1.11)
+  - Grade 11B (10.0.1.4)
+  - Grade 12A (10.0.1.0)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7A (10.0.1.98)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8A (10.0.1.17)
+  - Grade 8D (10.0.0.236)
+  - Grade 9D (10.0.0.250)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11A (10.0.1.2)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12B (169.254.0.42)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-01-09 10:16:14.991288
+Online PCs:
+  - Bashar PC (10.0.249.236)
+  - Grade 6A (10.0.1.14)
+  - Grade 7A (10.0.1.98)
+  - Grade 8A (10.0.1.17)
+  - Grade 9A (10.0.0.244)
+  - Grade 9B (10.0.0.255)
+  - Grade 10B (10.0.1.11)
+  - Grade 11A (10.0.1.2)
+  - Grade 11B (10.0.1.4)
+  - Grade 12A (10.0.1.0)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8B (10.0.1.94)
+  - Grade 8D (10.0.0.236)
+  - Grade 9D (10.0.0.250)
+  - Grade 10A (10.0.0.252)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12B (169.254.0.42)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-01-09 13:44:26.538039
+Online PCs:
+  - Bashar PC (10.0.249.236)
+  - Grade 7A (10.0.1.98)
+  - Grade 8A (10.0.1.17)
+  - Grade 9A (10.0.0.244)
+  - Grade 9B (10.0.0.255)
+  - Grade 10A (10.0.0.252)
+  - Grade 11B (10.0.1.4)
+  - Grade 12A (10.0.1.0)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6A (10.0.1.14)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8B (10.0.1.94)
+  - Grade 8D (10.0.0.236)
+  - Grade 9D (10.0.0.250)
+  - Grade 10B (10.0.1.11)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11A (10.0.1.2)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12B (10.0.1.1)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-01-09 13:49:58.137553
+Online PCs:
+  - Bashar PC (10.0.249.236)
+  - Grade 6A (10.0.1.14)
+  - Grade 7A (10.0.1.98)
+  - Grade 8A (10.0.1.17)
+  - Grade 9A (10.0.0.244)
+  - Grade 9B (10.0.0.255)
+  - Grade 10A (10.0.0.252)
+  - Grade 11A (10.0.1.2)
+  - Grade 11B (10.0.1.4)
+  - Grade 12A (10.0.1.0)
+  - Grade 12B (10.0.1.1)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8B (10.0.1.94)
+  - Grade 8D (10.0.0.236)
+  - Grade 9D (10.0.0.250)
+  - Grade 10B (10.0.1.11)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-01-11 09:23:51.108755
+Online PCs:
+  - Bashar PC (10.0.249.236)
+  - Grade 7A (10.0.1.98)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6A (10.0.1.14)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8A (10.0.1.17)
+  - Grade 8B (10.0.1.94)
+  - Grade 8D (10.0.0.236)
+  - Grade 9A (10.0.0.244)
+  - Grade 9B (10.0.0.255)
+  - Grade 9D (10.0.0.250)
+  - Grade 10A (10.0.0.252)
+  - Grade 10B (10.0.1.11)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11A (10.0.1.2)
+  - Grade 11B (10.0.1.4)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12A (10.0.1.0)
+  - Grade 12B (10.0.1.1)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-01-11 09:30:09.552511
+Online PCs:
+  - Bashar PC (10.0.249.236)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6A (10.0.1.14)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7A (10.0.1.98)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8A (10.0.1.17)
+  - Grade 8B (10.0.1.94)
+  - Grade 8D (10.0.0.236)
+  - Grade 9A (10.0.0.244)
+  - Grade 9B (10.0.0.255)
+  - Grade 9D (10.0.0.250)
+  - Grade 10A (10.0.0.252)
+  - Grade 10B (10.0.1.11)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11A (10.0.1.2)
+  - Grade 11B (10.0.1.4)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12A (10.0.1.0)
+  - Grade 12B (10.0.1.1)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-01-11 09:34:06.596004
+Online PCs:
+  - Bashar PC (10.0.249.236)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6A (10.0.1.14)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7A (10.0.1.98)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8A (10.0.1.17)
+  - Grade 8B (10.0.1.94)
+  - Grade 8D (10.0.0.236)
+  - Grade 9A (10.0.0.244)
+  - Grade 9B (10.0.0.255)
+  - Grade 9D (10.0.0.250)
+  - Grade 10A (10.0.0.252)
+  - Grade 10B (10.0.1.11)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11A (10.0.1.2)
+  - Grade 11B (10.0.1.4)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12A (10.0.1.0)
+  - Grade 12B (10.0.1.1)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-01-11 12:30:32.324430
+Online PCs:
+  - Bashar PC (10.0.249.236)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6A (10.0.1.14)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7A (10.0.1.98)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8A (10.0.1.17)
+  - Grade 8B (10.0.1.94)
+  - Grade 8D (10.0.0.236)
+  - Grade 9A (10.0.0.244)
+  - Grade 9B (10.0.0.255)
+  - Grade 9D (10.0.0.250)
+  - Grade 10A (10.0.0.252)
+  - Grade 10B (10.0.1.11)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11A (10.0.1.2)
+  - Grade 11B (10.0.1.4)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12A (10.0.1.0)
+  - Grade 12B (10.0.1.1)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-01-11 14:35:37.584430
+Online PCs:
+  - Bashar PC (10.0.249.236)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6A (10.0.1.14)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7A (10.0.1.98)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8A (10.0.1.17)
+  - Grade 8B (10.0.1.94)
+  - Grade 8D (10.0.0.236)
+  - Grade 9A (10.0.0.244)
+  - Grade 9B (10.0.0.255)
+  - Grade 9D (10.0.0.250)
+  - Grade 10A (10.0.0.252)
+  - Grade 10B (10.0.1.11)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11A (10.0.1.2)
+  - Grade 11B (10.0.1.4)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12A (10.0.1.0)
+  - Grade 12B (10.0.1.1)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-01-11 14:35:50.220159
+Online PCs:
+  - Bashar PC (10.0.249.236)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6A (10.0.1.14)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7A (10.0.1.98)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8A (10.0.1.17)
+  - Grade 8B (10.0.1.94)
+  - Grade 8D (10.0.0.236)
+  - Grade 9A (10.0.0.244)
+  - Grade 9B (10.0.0.255)
+  - Grade 9D (10.0.0.250)
+  - Grade 10A (10.0.0.252)
+  - Grade 10B (10.0.1.11)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11A (10.0.1.2)
+  - Grade 11B (10.0.1.4)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12A (10.0.1.0)
+  - Grade 12B (10.0.1.1)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-01-11 14:45:11.760532
+Online PCs:
+  - Bashar PC (10.0.249.236)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6A (10.0.1.14)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7A (10.0.1.98)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8A (10.0.1.17)
+  - Grade 8B (10.0.1.94)
+  - Grade 8D (10.0.0.236)
+  - Grade 9A (10.0.0.244)
+  - Grade 9B (10.0.0.255)
+  - Grade 9D (10.0.0.250)
+  - Grade 10A (10.0.0.252)
+  - Grade 10B (10.0.1.11)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11A (10.0.1.2)
+  - Grade 11B (10.0.1.4)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12A (10.0.1.0)
+  - Grade 12B (10.0.1.1)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-01-11 14:46:54.966091
+Online PCs:
+  - Bashar PC (10.0.249.236)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6A (10.0.1.14)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7A (10.0.1.98)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8A (10.0.1.17)
+  - Grade 8B (10.0.1.94)
+  - Grade 8D (10.0.0.236)
+  - Grade 9A (10.0.0.244)
+  - Grade 9B (10.0.0.255)
+  - Grade 9D (10.0.0.250)
+  - Grade 10A (10.0.0.252)
+  - Grade 10B (10.0.1.11)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11A (10.0.1.2)
+  - Grade 11B (10.0.1.4)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12A (10.0.1.0)
+  - Grade 12B (10.0.1.1)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-03-18 08:18:24.551042
+Online PCs:
+  - Bashar PC (10.0.249.236)
+  - Grade 10A (10.0.0.252)
+  - Grade 11B (10.0.1.4)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6A (10.0.1.14)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7A (10.0.1.98)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8A (10.0.1.17)
+  - Grade 8B (10.0.1.94)
+  - Grade 8D (10.0.0.236)
+  - Grade 9A (10.0.0.244)
+  - Grade 9B (10.0.0.255)
+  - Grade 9D (10.0.0.250)
+  - Grade 10B (10.0.1.11)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11A (10.0.1.2)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12A (10.0.1.0)
+  - Grade 12B (10.0.1.1)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-03-18 13:21:02.434612
+Online PCs:
+  - Bashar PC (10.0.249.236)
+  - Grade 10A (10.0.0.252)
+  - Grade 11B (10.0.1.4)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6A (10.0.1.14)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7A (10.0.1.98)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8A (10.0.1.17)
+  - Grade 8B (10.0.1.94)
+  - Grade 8D (10.0.0.236)
+  - Grade 9A (10.0.0.244)
+  - Grade 9B (10.0.0.255)
+  - Grade 9D (10.0.0.250)
+  - Grade 10B (10.0.1.11)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11A (10.0.1.2)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12A (10.0.1.0)
+  - Grade 12B (10.0.1.1)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-03-20 10:00:40.586175
+Online PCs:
+  - Bashar PC (10.0.249.236)
+  - Grade 11B (10.0.1.4)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6A (10.0.1.14)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7A (10.0.1.98)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8A (10.0.1.17)
+  - Grade 8B (10.0.1.94)
+  - Grade 8D (10.0.0.236)
+  - Grade 9A (10.0.0.244)
+  - Grade 9B (10.0.0.255)
+  - Grade 9D (10.0.0.250)
+  - Grade 10A (10.0.0.252)
+  - Grade 10B (10.0.1.11)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11A (10.0.1.2)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12A (10.0.1.0)
+  - Grade 12B (10.0.1.1)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-04-08 13:10:29.026494
+Online PCs:
+  - Bashar PC (10.0.249.236)
+  - Grade 9A (10.0.0.244)
+  - Grade 10A (10.0.0.252)
+  - Grade 11A (10.0.1.2)
+  - Grade 11B (10.0.1.4)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6A (10.0.1.14)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7A (10.0.1.98)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8A (10.0.1.17)
+  - Grade 8B (10.0.1.94)
+  - Grade 8D (10.0.0.236)
+  - Grade 9B (10.0.0.255)
+  - Grade 9D (10.0.0.250)
+  - Grade 10B (10.0.1.11)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12A (10.0.1.0)
+  - Grade 12B (10.0.1.1)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-04-24 12:52:38.641594
+Online PCs:
+  - Bashar PC (10.0.249.236)
+  - Grade 10A (10.0.0.252)
+  - Grade 11A (10.0.1.2)
+  - Grade 11B (10.0.1.4)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.10.110)
+  - Grade 4B (10.0.10.106)
+  - Grade 5A (10.0.10.112)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6A (10.0.1.14)
+  - Grade 6B (10.0.1.10)
+  - Grade 6D (10.0.0.239)
+  - Grade 6E (10.0.0.240)
+  - Grade 7A (10.0.1.98)
+  - Grade 7B (10.0.1.102)
+  - Grade 7D (10.0.0.242)
+  - Grade 8A (10.0.1.17)
+  - Grade 8B (10.0.1.94)
+  - Grade 8D (10.0.0.236)
+  - Grade 9A (10.0.0.244)
+  - Grade 9B (10.0.0.255)
+  - Grade 9D (10.0.0.250)
+  - Grade 10B (10.0.1.11)
+  - Grade 10D (10.0.0.218)
+  - Grade 10E (10.0.10.218)
+  - Grade 11D (10.0.11.105)
+  - Grade 11E (10.0.0.219)
+  - Grade 12A (10.0.1.0)
+  - Grade 12B (10.0.1.1)
+  - Grade 12D (10.0.0.217)
+  - Grade 12E (10.0.0.222)
+  - Art Room-Gs (10.0.0.254)
+
+Checkup started at 2025-04-24 13:08:00.836786
+Online PCs:
+  - Bashar PC (10.0.249.236)
+  - Grade 7B (10.0.11.102)
+  - Grade 8A (10.0.220.222)
+  - Grade 8B (10.0.196.4)
+  - Grade 10A (10.0.0.252)
+  - Grade 10B (10.0.214.90)
+  - Grade 11A (10.0.1.2)
+
+Offline PCs:
+  - Grade 1B (10.0.0.234)
+  - Grade 1C (10.0.0.233)
+  - Grade 2A (10.0.0.224)
+  - Grade 2B (10.0.0.230)
+  - Grade 3A (10.0.10.109)
+  - Grade 3B (10.0.245.122)
+  - Grade 4A (10.0.240.121)
+  - Grade 4B (10.0.10.106)
+  - Grade 4C (10.0.0.214)
+  - Grade 5A (10.0.10.112)
+  - Grade 5B (10.0.0.216)
+  - Grade 5D (10.0.0.247)
+  - Grade 5E (10.0.0.248)
+  - Grade 6B (10.0.1.10)
+  - Grade 6E (10.0.0.240)
+  - Grade 6D (10.0.0.239)
+  - Grade 7A (10.0.17.1)
+  - Grade 7E (10.0.182.238)
+  - Grade 7D (10.0.0.242)
+  - Grade 8D (10.0.0.236)
+  - Grade 8E (10.0.224.142)
+  - Grade 9B (10.0.0.255)
+  - Grade 9D (10.0.0.250)
+  - Grade 10E (10.0.10.218)
+  - Grade 10D (10.0.0.218)
+  - Grade 11E (10.0.0.219)
+  - Grade 11D (10.0.11.105)
+  - Grade 12A (10.0.227.90)
+  - Grade 12B (10.0.1.1)
+  - Grade 12E (10.0.0.222)
+  - Grade 12D (10.0.0.217)
+  - Art Room-Gs (10.0.0.254)
+

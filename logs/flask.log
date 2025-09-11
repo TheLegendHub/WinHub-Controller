@@ -1,0 +1,97 @@
+ * Serving Flask app 'app'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.5:5000
+Press CTRL+C to quit
+10.0.249.236 - - [11/Sep/2025 13:19:51] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:19:51] "GET /execute?choice=30&pc=6&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:19:51] "GET /execute?choice=30&pc=7&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:01] "GET /execute?choice=30&pc=2&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:01] "GET /execute?choice=30&pc=4&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:01] "GET /execute?choice=30&pc=3&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:01] "GET /execute?choice=30&pc=5&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:01] "GET /execute?choice=30&pc=1&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:01] "GET /execute?choice=30&pc=8&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:01] "GET /execute?choice=30&pc=9&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:02] "GET /execute?choice=30&pc=10&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:02] "GET /execute?choice=30&pc=11&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:02] "GET /execute?choice=30&pc=12&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:02] "GET /execute?choice=30&pc=13&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:02] "GET /execute?choice=30&pc=14&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:02] "GET /execute?choice=30&pc=15&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:02] "GET /execute?choice=30&pc=16&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:02] "GET /execute?choice=30&pc=19&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:02] "GET /execute?choice=30&pc=18&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:02] "GET /execute?choice=30&pc=20&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:02] "GET /execute?choice=30&pc=22&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:02] "GET /execute?choice=30&pc=25&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:02] "GET /execute?choice=30&pc=23&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:02] "GET /execute?choice=30&pc=24&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:02] "GET /execute?choice=30&pc=28&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:02] "GET /execute?choice=30&pc=27&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:02] "GET /execute?choice=30&pc=30&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:12] "GET /execute?choice=30&pc=17&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:12] "GET /execute?choice=30&pc=21&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:12] "GET /execute?choice=30&pc=26&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:12] "GET /execute?choice=30&pc=29&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:20:47] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:41] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:43] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:43] "GET /execute?choice=30&pc=1&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:43] "GET /execute?choice=30&pc=7&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=2&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=4&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=3&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=5&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=6&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=10&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=8&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=11&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=13&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=12&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=14&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=16&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=15&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=17&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=18&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=19&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=20&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=22&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=23&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=24&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=25&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=27&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:21:53] "GET /execute?choice=30&pc=30&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:22:03] "GET /execute?choice=30&pc=9&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:22:03] "GET /execute?choice=30&pc=21&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:22:03] "GET /execute?choice=30&pc=26&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:22:03] "GET /execute?choice=30&pc=28&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:22:03] "GET /execute?choice=30&pc=29&indv=1 HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:22:39] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:23:34] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:24:29] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:25:24] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:26:19] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:27:14] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:28:09] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:29:05] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:29:59] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:30:54] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:31:49] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:32:50] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:33:51] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:34:52] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:35:53] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:36:54] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:37:55] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:38:56] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:39:57] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:40:58] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:41:59] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:43:00] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:45:54] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:45:54] "GET /detections HTTP/1.1" 200 -
+10.0.249.236 - - [11/Sep/2025 13:46:01] "GET /detections HTTP/1.1" 200 -
+sudo: unable to execute /usr/bin/nohup: Broken pipe
