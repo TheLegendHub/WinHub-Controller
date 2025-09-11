@@ -1,0 +1,1312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taryam American Private School</title>
+    <title>Login</title>
+    
+    <script src="fullscreen.js" defer></script>
+    <style>
+        .page, nav {
+      display: none;
+    }
+    
+        body,html {
+			
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+#site-footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: #001f3f;
+	color: #ecf0f1;
+	text-align: center;
+	padding: 8px 0;
+	font-size: 12px;
+	border-top: 1px solid #003366;
+	transform: translateY(100%); /* Hide footer */
+	transition: transform 0.3s ease-in-out;
+	z-index: 1000;
+	} 
+  #site-footer.visible {
+	transform: translateY(0); /* Slide up when visible */
+	}
+    #chat-toggle {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 50%;
+      width: 60px;
+      height: 60px;
+      font-size: 24px;
+      cursor: pointer;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+      z-index: 1000;
+    }
+
+    /* Chat window */
+    #chat-window {
+  position: fixed;
+  bottom: 90px;
+  right: 20px;
+  width: 300px;
+  height: 400px;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  resize: both;
+  overflow: auto;
+  
+}
+
+
+    #chat-header {
+      background: #007bff;
+      color: white;
+      padding: 10px;
+      font-weight: bold;
+    }
+
+    #chat-messages {
+      flex: 1;
+      padding: 10px;
+      overflow-y: auto;
+      font-size: 14px;
+    }
+
+    #chat-input {
+      display: flex;
+      border-top: 1px solid #ccc;
+    }
+
+    #chat-input input {
+      flex: 1;
+      padding: 10px;
+      border: none;
+      outline: none;
+    }
+
+    #chat-input button {
+      background: #007bff;
+      border: none;
+      color: white;
+      padding: 10px;
+      cursor: pointer;
+    }
+ .detection-wrapper {
+  margin-top: 20px;
+  background: #f9f9f9;
+  padding: 10px;
+  border-radius: 12px;
+  width: 500px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.scrollable-results {
+  max-height: 350px;
+  overflow-y: auto;
+  padding-right: 10px;
+}
+
+.scrollable-results p {
+  margin: 5px 0;
+  font-size: 14px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 5px;
+}
+
+    .message {
+      margin: 5px 0;
+    }
+
+    .user {
+      text-align: right;
+      color: blue;
+    }
+
+    .bot {
+      text-align: left;
+      color: green;
+    }
+  #loginPage {
+  display: flex;
+  position: fixed; /* Make it overlay everything */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9999;  /* Bring it to the front */
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+}
+
+  #loginForm {
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    text-align: center;
+    width: 300px;
+  }
+
+  #loginForm input {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+  }
+
+  #loginForm button {
+    padding: 12px 20px;
+    background-color: #1c87c9;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+
+  #loginForm button:hover {
+    background-color: #155d8b;
+  }
+
+  #error {
+    color: red;
+    margin-top: 10px;
+  }
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        header {
+            background-color: #001f3f;
+            color: #ecf0f1;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        footer {
+			background-color: #001f3f;
+			color: #ecf0f1;
+			text-align: center;
+			padding: 8px 0;           /* Reduced padding */
+			font-size: 12px;          /* Smaller text */
+			position: fixed;
+			bottom: 0;
+			width: 100%;
+			z-index: 1000;            /* Ensures it stays above content */
+			border-top: 1px solid #003366;
+
+		}
+
+        
+        .button-container {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .computer-lab {
+            display: flex;
+            justify-content: center;
+            gap: 100px;
+            margin-top: 20px;
+        }
+        .column {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .computer {
+            background-color: #3498db;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            border-radius: 8px;
+            cursor: pointer;
+            position: relative;
+}
+        .computer:hover {
+            background-color: #2980b9;
+        }
+ .options {
+            display: none;
+            position: absolute;
+            background: white;
+            border: 1px solid #ccc;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            padding: 10px;
+            top: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 10;
+            color: black;
+        }
+        .computer:hover .options {
+            display: block;
+        }
+        .options div {
+			margin-top: 20px; /* increase as needed */
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+        .options div:hover {
+            background-color: #ddd;
+        }
+        
+.button {
+            background-color: #d9534f;
+            border: none;
+            color: #fff;
+            padding: 15px 32px;
+            text-align: center;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 8px;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #c9302c;
+        }
+        h1 {
+            margin-top: 0;
+        }
+        p {
+            text-align: center;
+            font-size: 18px;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+        .website-logo {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+        .counter {
+            font-size: 14px;
+            color: #555;
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+        }
+        /* Modal styles */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0,0,0,0.4);
+        }
+
+        .modal-content {
+            background-color: #fefefe;
+            margin: 15% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+            text-align: center;
+        }
+
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        
+        /* Hide second page by default */
+        .second-page {
+            display: none;
+        }
+.option-container {
+    position: absolute;
+    left: 120px; /* Adjust distance from left */
+    top: 73%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+//////
+.button-container {
+    position: fixed;  /* Keep the buttons at the bottom of the screen */
+    bottom: 90px;  /* Distance from the bottom */
+    left: 90%;  /* Center the buttons horizontally */
+    transform: translateX(-50%);  /* Adjust positioning to be truly centered */
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    flex-direction: row;
+}
+//////////
+#prevBtn, #nextBtn {
+    padding: 15px 30px;
+    font-size: 18px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#prevBtn:hover, #nextBtn:hover {
+    background-color: #0056b3;
+}
+#optionButton {
+    padding: 15px 30px;
+    font-size: 18px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#optionButton:hover {
+    background-color: #0056b3;
+}
+
+/* Dropdown Menu Styling */
+#optionMenu {
+    display: none;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 200px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
+
+#optionMenu div {
+    padding: 12px;
+    cursor: pointer;
+    font-size: 16px;
+    border-bottom: 1px solid #eee;
+    text-align: center;
+}
+
+#optionMenu div:last-child {
+    border-bottom: none;
+}
+
+#optionMenu div:hover {
+    background-color: #f0f0f0;
+}
+
+/* Show the menu when the 'visible' class is applied */
+.visible {
+    display: block;
+}
+
+    </style>
+</head>
+<body allowfullscreen>
+	<!-- Login -->
+<div id="loginPage">
+	<form id="loginForm" onsubmit="event.preventDefault(); loginUser();">
+  <h2>Login</h2>
+  
+    <input type="text" name="username" placeholder="Username" required><br>
+    <input type="password" name="password" placeholder="Password" required><br>
+    <button type="submit">Login</button>
+    <button type="button" onclick="goToMainPage()">Go to Main Page</button>
+
+  </form>
+  <p id="error" style="color: red;"></p>
+</div>
+
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <p id="popupMessage"></p>
+        </div>
+    </div>
+
+    <header>
+        <img src="https://tapschool.ae/site/wp-content/uploads/2017/10/logo.png" alt="Website Logo" class="website-logo">
+        <h1>Welcome to Taryam American Private School Portal</h1>
+    </header>
+<nav id="navBar">
+  <button id="mainBtn" onclick="showPage('mainPage')">Main Page</button>
+  <button id="adminBtn" onclick="showPage('secondPage')">Admin Page</button>
+  <button id="labBtn" onclick="showPage('labController')">Computer Lab Controller</button>
+</nav>
+<!--
+    <nav>
+        
+        <button onclick="showPage('mainPage')">Main Page</button>
+        <button onclick="showPage('secondPage')">Admin Page</button>
+<button onclick="showPage('labController')">Computer Lab Controller</button>
+    </nav>
+-->
+
+    <!-- Main Page Section -->
+    <section id="mainPage">
+        <p>Welcome students to the exam portal. Get ready to excel in your exams!</p>
+        <p id="usernameMessage"></p>
+        <div class="button-container">
+            <button class="button" id="talaButton">TALA</button>
+            <button class="button" id="mapButton">Map NWEA</button>
+            <button class="button" id="savvasButton">Savvas</button>
+            <button class="button" id="PISAButton">PISA Tool</button>
+            </div>
+        <div class="button-container">
+			<button class="button" id="PISA2Button">PISA Exam</button>
+			<button class="button" id="LibraryButton">TAPS Digital Library</button>
+            <button class="button" id="AISTbutton">AIST</button>
+            <button class="button" id="connectButton">Connect WiFi</button>
+        </div>
+    </section>
+
+    <!-- Second Page Section (Hidden by default) -->
+    <section id="secondPage" class="second-page centered">
+        <div class="ceneted-container">   
+            <h2>Monitoring Page</h2>
+        </div>
+        <p>Welcome Admin</p>
+        	  <!-- Chat Icon Button -->
+		<button id="chat-toggle">💬
+		</button>
+
+		<!-- Chat Popup Window -->
+		<div id="chat-window">
+			<div id="chat-header">TAPS School AI Assistant</div>
+			<div id="chat-messages"></div>
+			<div id="chat-input">
+		<input type="text" id="message" placeholder="Ask me anything...">
+		<button onclick="sendMessage()">Send</button>
+		<button onclick="sendRestart()">Restart</button>
+		<div id="resizer-bl"></div>
+		</div>
+		</div>
+        <div class="button-container">
+            <button onclick="window.location.href='http://10.0.0.5:5000/execute?choice=1'" class="button">Monitor Online/Offline PC's</button>
+            <button onclick="window.location.href='http://10.0.0.5:5000/execute?choice=7'" class="button">Shutdown PC</button>
+            <button onclick="window.location.href='http://10.0.0.5:5000/restart'" class="button">Restart Server</button>
+        </div>
+        <div class="detection-wrapper">
+			<h3>Live Person Detection</h3>
+			<div id="results" class="scrollable-results">
+			<p>Loading...</p>
+			</div>
+		</div>
+
+
+    </section>
+     <!-- LAB Controller Page Section (Hidden by default) -->
+<section id="labController">
+	  <!-- -->
+	  <!-- 
+<button id="chat-toggle">💬</button>
+<!-- 
+<div id="chat-window">
+  <div id="chat-header">TAPS School AI Assistant</div>
+  <div id="chat-messages"></div>
+  <div id="chat-input">
+    <input type="text" id="message" placeholder="Ask me anything...">
+    <button onclick="sendMessage()">Send</button>
+    <button onclick="sendRestart()">Restart</button>
+  <div id="resizer-bl"></div>
+  </div>
+</div> -->
+	   <div class="button-container">
+    <button id="prevBtn" class="button">Previous</button>
+    <button id="nextBtn" class="button">Next</button>
+</div>  
+	 <div id="lab1" class="section">
+    <h2>Primary Computer Lab Controller</h2>
+    <p>Manage lab computers</p>
+    <div class="computer-lab">
+      <div class="column">
+      <!--  <div class="computer" onclick="controlPC(1)">PC 32<div class="options"><div onclick="sendCommand(32, 'shutdown')">Shutdown</div><div onclick="sendCommand(32, 'freeze')">Freeze</div><div onclick="sendCommand(32, 'check')">Check (Online/Offline)</div></div></div>
+        <span id="32-status">Loading...</span> -->
+      </div>
+    </div>
+  </div>
+
+  <div id="lab2" class="section">
+    <h2>Girls Computer Lab Controller</h2>
+    <p>Manage lab computers</p>
+    <div class="computer-lab">
+      <div class="column">
+		  		<!--
+        <div class="computer" onclick="controlPC(2)">PC 33<div class="options"><div onclick="sendCommand(33, 'shutdown')">Shutdown</div><div onclick="sendCommand(33, 'freeze')">Freeze</div><div onclick="sendCommand(33, 'check')">Check (Online/Offline)</div></div></div>
+        <span id="33-status">Loading...</span> -->
+      </div>
+    </div>
+  </div>
+ 
+	 <!--
+        <div class="option-container">
+            <button id="optionButton">Option</button>
+            <div id="optionMenu" class="hidden">
+                <div onclick="shutdownAllPCs()">Shutdown All PC</div>
+                <div onclick="showBlockWebsiteForm()">Block Websites</div>
+                <div onclick="unblockwebsites()">Unblock All Websites</div>
+                <div onclick="showUnBlockWebsiteForm()">Unblock Specific Websites</div>
+                <div onclick="showfileForm()">Download A File</div>
+                <div onclick="showUploadForm()">Upload A File</div>
+            </div>
+        </div>
+    -->
+         
+<!-- Block Website Form -->
+        <div id="blockWebsiteForm" style="display:none;">
+            <label for="website">Enter Website to Block:</label>
+            <input type="text" id="website" name="website" placeholder="e.g., www.example.com">
+            <button onclick="blockWebsite()">Block Website</button>
+        </div>
+        <!-- Unblock Specific Website Form -->
+        <div id="UnblockWebsiteForm" style="display:none;">
+            <label for="website">Enter Website to UnBlock:</label>
+            <input type="text" id="website1" name="website" placeholder="e.g., www.example.com">
+            <button onclick="unblockspecifcWebsite()">UnBlock Website</button>
+        </div>
+        <!-- File Download Form -->
+        <div id="FileForm" style="display:none;">
+            <label for="file">Enter File to Download:</label>
+            <input type="text" id="file" name="file" placeholder="e.g., test.txt">
+            <button onclick="file()">File Download</button>
+        </div>
+        <!-- File Upload Form -->
+        <div id="uploadFileForm" style="display:none;">
+            <form action="upload.php" method="POST" enctype="multipart/form-data">
+                <label for="file">Select a file to upload:</label>
+                <input type="file" name="file" required />
+                <button type="submit">Upload</button>
+            </form>
+        </div>
+        <div id="discordForm" style="display: none; margin-top: 10px;">
+			<form onsubmit="sendToDiscord(); return false;">
+				<textarea id="msg" placeholder="Type your message here" style="width: 100%; height: 60px;"></textarea><br>
+				<button type="submit">Send</button>
+			</form>
+			<h3 style="margin-top: 20px;">Discord Responses:</h3>
+			<div id="messages"></div>
+		</div>
+
+        <div id="lab3" class="section">
+        <h2>Boys Computer Lab Controller</h2>
+        <p>Manage lab computers</p>
+        
+        
+        
+        
+        
+        
+        
+        <div class="option-container">
+            <button id="optionButton">Option</button>
+            <div id="optionMenu" class="hidden">
+                <div onclick="shutdownAllPCs()">Shutdown All PC</div>
+                <div onclick="showBlockWebsiteForm()">Block Websites</div>
+                <div onclick="unblockwebsites()">Unblock All Websites</div>
+                <div onclick="showUnBlockWebsiteForm()">Unblock Specific Websites</div>
+                <div onclick="showfileForm()">Download A File</div>
+                <div onclick="showUploadForm()">Upload A File</div>
+                <div onclick="showDiscordForm()">Send Message to Admin</div>
+            </div>
+        </div>
+        <div class="computer-lab">
+            <div class="column">
+                <!--
+                <div class="computer" onclick="controlPC(1)">PC 32<div class="options"><div onclick="sendCommand(32, 'shutdown')">Shutdown</div><div onclick="sendCommand(32, 'freeze')">Freeze</div><div onclick="sendCommand(32, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="32-status">Loading...</span>  
+                <div class="computer" onclick="controlPC(2)">PC 31<div class="options"><div onclick="sendCommand(31, 'shutdown')">Shutdown</div><div onclick="sendCommand(31, 'freeze')">Freeze</div><div onclick="sendCommand(31, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="31-status">Loading...</span>  
+                -->
+                <div class="computer" onclick="controlPC(3)">PC 30<div class="options"><div onclick="sendCommand(30, 'shutdown')">Shutdown</div><div onclick="sendCommand(30, 'freeze')">Freeze</div><div onclick="sendCommand(30, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="30-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 29<div class="options"><div onclick="sendCommand(29, 'shutdown')">Shutdown</div><div onclick="sendCommand(29, 'freeze')">Freeze</div><div onclick="sendCommand(29, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="29-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 28<div class="options"><div onclick="sendCommand(28, 'shutdown')">Shutdown</div><div onclick="sendCommand(28, 'freeze')">Freeze</div><div onclick="sendCommand(28, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="28-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 27<div class="options"><div onclick="sendCommand(27, 'shutdown')">Shutdown</div><div onclick="sendCommand(27, 'freeze')">Freeze</div><div onclick="sendCommand(27, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="27-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 26<div class="options"><div onclick="sendCommand(26, 'shutdown')">Shutdown</div><div onclick="sendCommand(26, 'freeze')">Freeze</div><div onclick="sendCommand(26, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="26-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 25<div class="options"><div onclick="sendCommand(25, 'shutdown')">Shutdown</div><div onclick="sendCommand(25, 'freeze')">Freeze</div><div onclick="sendCommand(25, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="25-status">Loading...</span>  <!-- The status will be updated here -->
+            </div>
+            <div class="column middle">
+                <div class="computer" onclick="controlPC(4)">PC 24<div class="options"><div onclick="sendCommand(24, 'shutdown')">Shutdown</div><div onclick="sendCommand(24, 'freeze')">Freeze</div><div onclick="sendCommand(24, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="24-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(5)">PC 23<div class="options"><div onclick="sendCommand(23, 'shutdown')">Shutdown</div><div onclick="sendCommand(23, 'freeze')">Freeze</div><div onclick="sendCommand(23, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="23-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 22<div class="options"><div onclick="sendCommand(22, 'shutdown')">Shutdown</div><div onclick="sendCommand(22, 'freeze')">Freeze</div><div onclick="sendCommand(22, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="22-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 21<div class="options"><div onclick="sendCommand(21, 'shutdown')">Shutdown</div><div onclick="sendCommand(21, 'freeze')">Freeze</div><div onclick="sendCommand(21, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="21-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 20<div class="options"><div onclick="sendCommand(20, 'shutdown')">Shutdown</div><div onclick="sendCommand(20, 'freeze')">Freeze</div><div onclick="sendCommand(20, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="20-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 19<div class="options"><div onclick="sendCommand(19, 'shutdown')">Shutdown</div><div onclick="sendCommand(19, 'freeze')">Freeze</div><div onclick="sendCommand(19, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="19-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 18<div class="options"><div onclick="sendCommand(18, 'shutdown')">Shutdown</div><div onclick="sendCommand(18, 'freeze')">Freeze</div><div onclick="sendCommand(18, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="18-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(6)">PC 17<div class="options"><div onclick="sendCommand(17, 'shutdown')">Shutdown</div><div onclick="sendCommand(17, 'freeze')">Freeze</div><div onclick="sendCommand(17, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="17-status">Loading...</span>  <!-- The status will be updated here -->
+            </div>
+            <div class="column middle">
+                <div class="computer" onclick="controlPC(3)">PC 16<div class="options"><div onclick="sendCommand(16, 'shutdown')">Shutdown</div><div onclick="sendCommand(16, 'freeze')">Freeze</div><div onclick="sendCommand(16, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="16-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 15<div class="options"><div onclick="sendCommand(15, 'shutdown')">Shutdown</div><div onclick="sendCommand(15, 'freeze')">Freeze</div><div onclick="sendCommand(15, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="15-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 14<div class="options"><div onclick="sendCommand(14, 'shutdown')">Shutdown</div><div onclick="sendCommand(14, 'freeze')">Freeze</div><div onclick="sendCommand(14, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="14-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 13<div class="options"><div onclick="sendCommand(13, 'shutdown')">Shutdown</div><div onclick="sendCommand(13, 'freeze')">Freeze</div><div onclick="sendCommand(13, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="13-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 12<div class="options"><div onclick="sendCommand(12, 'shutdown')">Shutdown</div><div onclick="sendCommand(12, 'freeze')">Freeze</div><div onclick="sendCommand(12, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="12-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(8)">PC 11<div class="options"><div onclick="sendCommand(11, 'shutdown')">Shutdown</div><div onclick="sendCommand(11, 'freeze')">Freeze</div><div onclick="sendCommand(11, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="11-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(9)">PC 10<div class="options"><div onclick="sendCommand(10, 'shutdown')">Shutdown</div><div onclick="sendCommand(10, 'freeze')">Freeze</div><div onclick="sendCommand(10, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="10-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(9)">PC 9<div class="options"><div onclick="sendCommand(9, 'shutdown')">Shutdown</div><div onclick="sendCommand(9, 'freeze')">Freeze</div><div onclick="sendCommand(9, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="9-status">Loading...</span>  <!-- The status will be updated here -->
+            </div>
+            <div class="column">
+                <div class="computer" onclick="controlPC(3)">PC 8<div class="options"><div onclick="sendCommand(8, 'shutdown')">Shutdown</div><div onclick="sendCommand(8, 'freeze')">Freeze</div><div onclick="sendCommand(8, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="8-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 7<div class="options"><div onclick="sendCommand(7, 'shutdown')">Shutdown</div><div onclick="sendCommand(7, 'freeze')">Freeze</div><div onclick="sendCommand(7, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="7-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 6<div class="options"><div onclick="sendCommand(6, 'shutdown')">Shutdown</div><div onclick="sendCommand(6, 'freeze')">Freeze</div><div onclick="sendCommand(6, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="6-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 5<div class="options"><div onclick="sendCommand(5, 'shutdown')">Shutdown</div><div onclick="sendCommand(5, 'freeze')">Freeze</div><div onclick="sendCommand(5, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="5-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 4<div class="options"><div onclick="sendCommand(4, 'shutdown')">Shutdown</div><div onclick="sendCommand(4, 'freeze')">Freeze</div><div onclick="sendCommand(4, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="4-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 3<div class="options"><div onclick="sendCommand(3, 'shutdown')">Shutdown</div><div onclick="sendCommand(3, 'freeze')">Freeze</div><div onclick="sendCommand(3, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="3-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(3)">PC 2<div class="options"><div onclick="sendCommand(2, 'shutdown')">Shutdown</div><div onclick="sendCommand(2, 'freeze')">Freeze</div><div onclick="sendCommand(2, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="2-status">Loading...</span>  <!-- The status will be updated here -->
+                <div class="computer" onclick="controlPC(10)">PC 1<div class="options"><div onclick="sendCommand(1, 'shutdown')">Shutdown</div><div onclick="sendCommand(1, 'freeze')">Freeze</div><div onclick="sendCommand(1, 'check')">Check (Online/Offline)</div></div></div>
+                <span id="1-status">Loading...</span>  <!-- The status will be updated here -->
+            </div>
+
+        </div>
+        <!--
+     <div id="discord-chat" style="margin-top: 30px;">
+				<h2>Send Message to Discord Bot</h2>
+				<form onsubmit="sendMessage(); return false;">
+					<textarea id="msg" placeholder="Type your message here"></textarea><br>
+					<button type="submit">Send</button>
+				</form>
+
+				<h3>Discord Responses:</h3>
+				<div id="messages"></div>
+			</div>
+			-->
+    </section>
+    
+    <!--<footer>
+        <p>&copy; 2024 Taryam American Private School. All rights reserved.</p>
+    </footer>
+-->
+	<footer id="site-footer">
+		<p>&copy; 2024 Taryam American Private School. All rights reserved.</p>
+	</footer>
+
+    <script> 
+	 
+	function sendRestart() {
+  fetch('http://10.0.0.5:5000/restart', {
+    method: 'GET', // Ensure it matches the Flask endpoint
+  })
+  .then(response => {
+    if (response.ok) {
+      return response.json(); // or text() depending on your Flask response
+    } else {
+      throw new Error(`Server returned status: ${response.status}`);
+    }
+  })
+  .then(data => {
+    alert(`Server says: ${data.message || 'Restart command sent'}`);
+  })
+  .catch(error => {
+    alert(`Error sending restart request: ${error}`);
+  });
+}	
+		/////////////////////
+	    let currentLabIndex = 0;
+    const labs = document.querySelectorAll('.section');
+
+    // Function to display the current lab and hide others
+    const showLab = (index) => {
+      labs.forEach((lab, i) => {
+        lab.style.display = (i === index) ? 'block' : 'none';
+      });
+      updateButtons();
+    };
+
+    // Function to update button states (disable when at the first or last lab)
+    const updateButtons = () => {
+      document.getElementById('prevBtn').disabled = currentLabIndex === 0;
+      document.getElementById('nextBtn').disabled = currentLabIndex === labs.length - 1;
+    };
+
+    // Event listeners for Next and Previous buttons
+    document.getElementById('prevBtn').addEventListener('click', () => {
+      if (currentLabIndex > 0) {
+        currentLabIndex--;
+        showLab(currentLabIndex);
+      }
+    });
+
+    document.getElementById('nextBtn').addEventListener('click', () => {
+      if (currentLabIndex < labs.length - 1) {
+        currentLabIndex++;
+        showLab(currentLabIndex);
+      }
+    });
+
+    // Initialize the page by showing the first lab
+    showLab(currentLabIndex);
+		/////////////////////
+        // Function to switch between pages
+        function showPage(pageId) {
+            const pages = document.querySelectorAll('section');
+            pages.forEach(page => {
+                if (page.id === pageId) {
+                    page.style.display = 'block';
+                } else {
+                    page.style.display = 'none';
+                }
+            });
+        }
+
+        // Initialize by showing the main page
+        showPage('mainPage');
+
+        if (typeof(Storage) !== "undefined") {
+            if (!localStorage.getItem('visitCount')) {
+                localStorage.setItem('visitCount', 1);
+            } else {
+                var count = parseInt(localStorage.getItem('visitCount')) + 1;
+                localStorage.setItem('visitCount', count);
+            }
+            var visitCountElement = document.createElement('p');
+            visitCountElement.id = 'visitCount';
+            visitCountElement.innerHTML = 'Number of visits: ' + localStorage.getItem('visitCount');
+            document.body.appendChild(visitCountElement);
+
+            var totalClickCounter = parseInt(localStorage.getItem('totalClickCounter')) || 0;
+            var totalClickCounterElement = document.createElement('p');
+            totalClickCounterElement.className = 'counter';
+            totalClickCounterElement.innerHTML = 'Exam Takers: ' + totalClickCounter;
+            document.body.appendChild(totalClickCounterElement);
+
+            document.getElementById('talaButton').addEventListener('click', function() {
+                totalClickCounter++;
+                localStorage.setItem('totalClickCounter', totalClickCounter);
+                totalClickCounterElement.innerText = 'Total Button Clicks: ' + totalClickCounter;
+                var username = prompt("Enter your real username for accurate records:");
+                if (username) {
+                    sendUsername(username, 'https://tala.diglossia.net/assessment_client/startNewSittingRosterPassword/SPEA/');
+                } else {
+                    alert('No username entered. Please try again.');
+                }
+            });
+
+            document.getElementById('mapButton').addEventListener('click', function() {
+                totalClickCounter++;
+                localStorage.setItem('totalClickCounter', totalClickCounter);
+                totalClickCounterElement.innerText = 'Total Button Clicks: ' + totalClickCounter;
+                var username = prompt("Enter your real username for accurate records:");
+                if (username) {
+                    sendUsername(username, 'https://test.mapnwea.org/#/');
+                } else {
+                    alert('No username entered. Please try again.');
+                }
+            });
+
+            document.getElementById('PISAButton').addEventListener('click', function() {
+                totalClickCounter++;
+                localStorage.setItem('totalClickCounter', totalClickCounter);
+                totalClickCounterElement.innerText = 'Total Button Clicks: ' + totalClickCounter;
+                var username = prompt("Enter your real username for accurate records:");
+                if (username) {
+                    sendUsername(username, 'https://schoolreadiness-qa.pisa.acer.org/'); //OLD PISA LINK
+                    //sendUsername(username, 'https://pisa2025.org/locale/en-AE');
+                } else {
+                    alert('No username entered. Please try again.');
+                }
+            });
+            document.getElementById('PISA2Button').addEventListener('click', function() {
+                totalClickCounter++;
+                localStorage.setItem('totalClickCounter', totalClickCounter);
+                totalClickCounterElement.innerText = 'Total Button Clicks: ' + totalClickCounter;
+                var username = prompt("Enter your real username for accurate records:");
+                if (username) {
+                    sendUsername(username, 'https://pisa2025.org/locale/en-AE');
+                } else {
+                    alert('No username entered. Please try again.');
+                }
+            });
+            
+            document.getElementById('savvasButton').addEventListener('click', function() {
+                totalClickCounter++;
+                localStorage.setItem('totalClickCounter', totalClickCounter);
+                totalClickCounterElement.innerText = 'Total Button Clicks: ' + totalClickCounter;
+                var username = prompt("Enter your real username for accurate records:");
+                if (username) {
+                    sendUsername(username, 'https://sso.rumba.pk12ls.com/sso/login?profile=realize&k12int=true&service=https%3A%2F%2Fwww.savvasrealize.com%2Fcommunity%2Fj_spring_cas_security_check');
+                } else {
+                    alert('No username entered. Please try again.');
+                }
+            });
+            document.getElementById('LibraryButton').addEventListener('click', function() {
+                totalClickCounter++;
+                localStorage.setItem('totalClickCounter', totalClickCounter);
+                totalClickCounterElement.innerText = 'Total Button Clicks: ' + totalClickCounter;
+                var username = prompt("Enter your real username for accurate records:");
+                if (username) {
+                    sendUsername(username, 'https://storage2.me-qr.com/pdf/e1d9cc19-2c15-48b4-83c3-305702202f57.pdf');
+                } else {
+                    alert('No username entered. Please try again.');
+                }
+            });
+           document.getElementById('AISTbutton').addEventListener('click', function() {
+                totalClickCounter++;
+                localStorage.setItem('totalClickCounter', totalClickCounter);
+                totalClickCounterElement.innerText = 'Total Button Clicks: ' + totalClickCounter;
+                window.open('https://apps.microsoft.com/detail/9ndqcd7hs7xb?hl=en-US&gl=EG', '_blank');
+                //var username = prompt("Enter your real username for accurate records:");
+                //if (username) {
+                //    sendUsername(username, 'https://apps.microsoft.com/detail/9ndqcd7hs7xb?hl=en-US&gl=EG');
+                //} else {
+                //    alert('No username entered. Please try again.');
+                //}
+            });
+           document.getElementById('connectButton').addEventListener('click', function() {
+              totalClickCounter++;
+    	      localStorage.setItem('totalClickCounter', totalClickCounter);
+    	      totalClickCounterElement.innerText = 'Total Button Clicks: ' + totalClickCounter;
+    	      var username = prompt("Enter your real username for accurate records:");
+              if (username) {
+                  sendUsername(username, 'https://tapschool.ae/'); // Replace with actual URL
+              } else {
+                  alert('No username entered. Please try again.');
+              }
+           });
+
+        } else {
+            console.log('LocalStorage is not supported. Unable to track visits, link clicks, and store username.');
+        }
+
+document.getElementById("optionButton").addEventListener("click", function (event) {
+    let menu = document.getElementById("optionMenu");
+    
+    if (menu.style.display === "block") {
+        menu.style.display = "none"; // Hide menu if already open
+    } else {
+        menu.style.display = "block"; // Show menu
+    }
+
+    event.stopPropagation(); // Prevents menu from closing immediately
+});
+
+// Example functions for options
+function shutdownAllPCs() {
+    alert("Shutting down all PCs...");
+    fetch("http://10.0.0.5:5000/execute?choice=9", {
+        method: "GET",
+    })
+    .then(response => {
+        if (!response.ok) {
+            throw new Error("Network response was not ok");
+        }
+        return response.text();
+    })
+    .then(data => {
+        alert("Shutdown command sent successfully!");
+    })
+    .catch(error => {
+        alert("Error sending shutdown command: " + error.message);
+    });
+}
+function file(){
+		    alert("Download the file...");
+const file = document.getElementById("file").value;
+
+    if (!website) {
+        alert("Please enter a file to Download.");
+        return;
+    }
+
+    // Send website to the server via fetch
+    fetch(`http://10.0.0.5:5000/execute?choice=13&file=${encodeURIComponent(file)}`, {
+        method: "GET"})
+    .then(response => response.json())
+    .then(data => {
+        console.log(data.output); // Log the output from the command
+    })
+    .catch(error => {
+        alert("Error: " + error);
+    });
+
+	}
+function unblockwebsites(){
+	alert("UnBlocking websites...");
+	fetch("http://10.0.0.5:5000/execute?choice=11", {
+        method: "GET",
+    })
+    .then(response => {
+        if (!response.ok) {
+            throw new Error("Network response was not ok");
+        }
+        return response.text();
+    })
+    .then(data => {
+        alert("UnBlocking command sent successfully!");
+    })
+    .catch(error => {
+        alert("Error sending shutdown command: " + error.message);
+    });
+	}
+function unblockspecifcWebsite() {
+	    alert("UnBlocking websites...");
+const website = document.getElementById("website1").value;
+
+    if (!website) {
+        alert("Please enter a website URL to Unblock.");
+        return;
+    }
+
+    // Send website to the server via fetch
+    fetch(`http://10.0.0.5:5000/execute?choice=12&website=${encodeURIComponent(website)}`, {
+        method: "GET"})
+    .then(response => response.json())
+    .then(data => {
+        console.log(data.output); // Log the output from the command
+    })
+    .catch(error => {
+        alert("Error: " + error);
+    });
+
+	}
+function blockWebsite() {
+    alert("Blocking websites...");
+const website = document.getElementById("website").value;
+
+    if (!website) {
+        alert("Please enter a website URL to block.");
+        return;
+    }
+
+    // Send website to the server via fetch
+    fetch(`http://10.0.0.5:5000/execute?choice=10&website=${encodeURIComponent(website)}`, {
+        method: "GET"})
+    .then(response => response.json())
+    .then(data => {
+        console.log(data.output); // Log the output from the command
+    })
+    .catch(error => {
+        alert("Error: " + error);
+    });
+
+}
+function showBlockWebsiteForm() {
+    document.getElementById("blockWebsiteForm").style.display = "block";
+}
+function showUnBlockWebsiteForm() {
+    document.getElementById("UnblockWebsiteForm").style.display = "block";
+}
+function showfileForm() {
+    document.getElementById("FileForm").style.display = "block";
+}
+function showUploadForm() {
+    document.getElementById("uploadFileForm").style.display = "block";
+}
+// Close menu when clicking outside
+document.addEventListener("click", function (event) {
+    let menu = document.getElementById("optionMenu");
+    let button = document.getElementById("optionButton");
+    
+    if (event.target !== menu && event.target !== button) {
+        menu.style.display = "none";
+    }
+});
+
+        function sendUsername(username, redirectUrl) {
+            let ip;
+            getPrivateIP()
+                .then(resolvedIP => {
+                    ip = resolvedIP;
+                    console.log('Private IP:', ip);
+                    fetch('http://10.0.0.5:3000/submit-username', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({ username: username, ip: ip })
+                    })
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error('Network response was not ok');
+                        }
+                        return response.json();
+                    })
+                    .then(data => {
+                        console.log('Username sent successfully:', data);
+                        alert('Username saved successfully!');
+                        var popupMessage = document.getElementById('popupMessage');
+                        popupMessage.innerText = 'Welcome, ' + username + '! Your are being redirected, please wait!. IP Address: ' + ip;
+                        var modal = document.getElementById('myModal');
+                        modal.style.display = 'block';
+                        setTimeout(function(){
+                            modal.style.display = 'none';
+                            window.location.href = redirectUrl;
+                        }, 5000);
+                    })
+                    .catch(error => {
+                        console.error('Error sending username:', error);
+                        alert('Failed to save username. Please try again.');
+                    });
+                })
+                .catch(error => {
+                    console.error('Error getting private IP:', error);
+                    alert('Failed to get IP address. Please try again.');
+                });
+        }
+
+        function getPrivateIP() {
+            return fetch('get_private_ip.php')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.text();
+                })
+                .catch(error => {
+                    console.error('Error getting private IP:', error);
+                    return Promise.reject(error);
+                });
+        }
+  function sendCommand(pcNumber, action) {
+    let actionCode;
+    if (action === 'shutdown') {
+        actionCode = 5;
+    } else if (action === 'freeze') {
+        actionCode = 20;
+    } else if (action === 'check') {
+        actionCode = 30;
+    }
+
+    fetch(`http://10.0.0.5:5000/execute?choice=${actionCode}&pc=${pcNumber}&indv=${1}`, {
+        method: 'GET',
+    })
+    .then(response => response.json())
+    .then(data => {
+                  const pcStatusElement = document.getElementById(pcNumber + "-status");
+                  if (pcStatusElement) {
+                       // Set the status text and color based on the response
+                       pcStatusElement.textContent = data.status;  // Update the status text
+                       pcStatusElement.style.color = data.status === "Online" ? "green" : "red";  // Change color based on status
+        }         else {
+                       console.error(`Element with id ${pcNumber}-status not found.`);
+                     }
+                  
+                })
+    .catch(error => console.error('Error:', error));
+}
+ function loginUser() {
+    const form = document.getElementById("loginForm");
+    const formData = new FormData(form);
+
+    fetch("login.php", {
+      method: "POST",
+      body: formData
+    })
+    .then(res => res.json())
+    .then(data => {
+      if (data.success) {
+        document.getElementById("loginPage").style.display = "none";
+        document.getElementById("navBar").style.display = "block";
+
+        // Hide all buttons first
+        document.getElementById("mainBtn").style.display = "none";
+        document.getElementById("adminBtn").style.display = "none";
+        document.getElementById("labBtn").style.display = "none";
+
+        // Show relevant buttons based on role
+        if (data.role === "admin") {
+          document.getElementById("adminBtn").style.display = "inline-block";
+          document.getElementById("mainBtn").style.display = "inline-block";
+        } else if (data.role === "lab") {
+          document.getElementById("labBtn").style.display = "inline-block";
+        } else {
+          document.getElementById("mainBtn").style.display = "inline-block";
+        }
+
+        // Optionally show a default page
+        showPage("mainPage");
+
+      } else {
+        document.getElementById("error").textContent = "Invalid login.";
+      }
+    });
+  }
+  function goToMainPage() {
+  document.getElementById("loginPage").style.display = "none";
+document.getElementById("mainBtn").style.display = "inline-block";
+}
+
+document.addEventListener('DOMContentLoaded', function () {
+    for (let pc = 1; pc <= 30; pc++) {
+        sendCommand(pc, 'check');
+    }
+});
+function showDiscordForm() {
+  // Optional: hide other forms if needed
+  document.getElementById("discordForm").style.display = "block";
+}
+
+function showDiscordForm() {
+      const form = document.getElementById('discordForm');
+      form.style.display = (form.style.display === "none") ? "block" : "none";
+    }
+
+    // Send message to the server (and Discord)
+    function sendToDiscord() {
+      const content = document.getElementById('msg').value;
+
+      fetch('http://10.0.0.5:7000/send', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ content })
+      })
+      .then(res => res.json())
+      .then(data => {
+        document.getElementById('msg').value = '';
+        //document.getElementById('discordForm').style.display = "none";
+      })
+      .catch(err => alert('Error sending message.'));
+    }
+
+    // WebSocket connection for live responses
+    const ws = new WebSocket('ws://10.0.0.5:7000');
+    ws.onmessage = function(event) {
+      const message = event.data;
+      const messagesDiv = document.getElementById('messages');
+      messagesDiv.innerHTML += `<div>${message}</div>`;
+      messagesDiv.scrollTop = messagesDiv.scrollHeight;
+    };
+  const footer = document.getElementById('site-footer');
+  let scrollTimeout;
+
+  window.addEventListener('scroll', () => {
+    // Show footer on scroll
+    footer.classList.add('visible');
+
+    // Clear any existing timeout
+    clearTimeout(scrollTimeout);
+
+    // Set a timeout to hide the footer after 1.5 seconds of no scrolling
+    scrollTimeout = setTimeout(() => {
+      footer.classList.remove('visible');
+    }, 1500); // adjust duration as needed
+  });
+  const toggleBtn = document.getElementById('chat-toggle');
+  const chatWindow = document.getElementById('chat-window');
+  const messageInput = document.getElementById('message');
+  const chatMessages = document.getElementById('chat-messages');
+
+  toggleBtn.onclick = () => {
+    chatWindow.style.display = chatWindow.style.display === 'none' ? 'flex' : 'none';
+  };
+
+  function appendMessage(sender, text) {
+    const div = document.createElement('div');
+    div.className = 'message ' + sender;
+    div.textContent = text;
+    chatMessages.appendChild(div);
+    chatMessages.scrollTop = chatMessages.scrollHeight;
+  }
+
+  async function sendMessage() {
+    const text = messageInput.value.trim();
+    if (!text) return;
+
+    appendMessage('user', 'You: ' + text);
+    messageInput.value = '';
+
+    try {
+      const response = await fetch('http://10.0.0.5:9000/chat', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ message: text })
+      });
+
+      const data = await response.json();
+      appendMessage('bot', 'Bot: ' + data.reply);
+    } catch (err) {
+      appendMessage('bot', 'Bot: Error. Please try again.');
+    }
+  }
+
+  messageInput.addEventListener('keypress', function (e) {
+    if (e.key === 'Enter') sendMessage();
+  });
+  
+ async function fetchDetections() {
+    try {
+      const response = await fetch("http://10.0.0.5:5000/detections");
+      const data = await response.json();
+
+      const container = document.getElementById("results");
+      container.innerHTML = "";
+
+      if (Object.keys(data).length === 0) {
+        container.innerHTML = "<p>No detections available.</p>";
+        return;
+      }
+
+      for (const [location, people] of Object.entries(data)) {
+        container.innerHTML += `<p><strong>${location}</strong>: ${people}</p>`;
+      }
+    } catch (err) {
+      document.getElementById("results").innerHTML = "<p>Error fetching data.</p>";
+      console.error(err);
+    }
+  }
+
+  fetchDetections();
+  setInterval(fetchDetections, 55000);
+    </script>
+</body>
+</html>
